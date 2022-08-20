@@ -1,0 +1,5 @@
+/ {
+    my_driver_0: generic_my_driver_0 {
+        compatible = "generic,my-driver";
+    };
+};

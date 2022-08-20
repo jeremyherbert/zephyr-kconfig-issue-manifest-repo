@@ -1,0 +1,4 @@
+config MY_DRIVER
+	bool "My driver"
+	help
+	  Enable my driver
